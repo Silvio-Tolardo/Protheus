@@ -2,6 +2,6 @@
 
 User Function protheuss()
     
-    MSGINFO( "Ola Ceramfix", "CERAMFIX" )
+    MSGINFO( "Ola World!", "Commit" )
 
 Return 
